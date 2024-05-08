@@ -1,4 +1,4 @@
-# `@napi-rs/package-template`
+# `@napi-rs/package-template` 
 
 ![https://github.com/napi-rs/package-template/actions](https://github.com/napi-rs/package-template/workflows/CI/badge.svg)
 
